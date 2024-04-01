@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "name": "Company A",
+        "description": "AI Solutions Provider",
+        "tags": [
+            "AI",
+            "Tech",
+            "Innovation"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "John Smith",
+            "personId": 1
+        }
+    },
+    {
+        "id": 2,
+        "name": "Company B",
+        "description": "E-commerce Platform",
+        "tags": [
+            "E-commerce",
+            "Retail",
+            "Online Shopping"
+        ],
+        "companySize": "Large",
+        "CEO": {
+            "name": "Emily Johnson",
+            "personId": 2
+        }
+    },
+    {
+        "id": 3,
+        "name": "Company C",
+        "description": "Healthcare Technology",
+        "tags": [
+            "Healthcare",
+            "Technology",
+            "Medical"
+        ],
+        "companySize": "Small",
+        "CEO": {
+            "name": "Michael Davis",
+            "personId": 3
+        }
+    },
+    {
+        "id": 4,
+        "name": "Company D",
+        "description": "Software Development",
+        "tags": [
+            "Software",
+            "Tech",
+            "Development"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "Jessica Miller",
+            "personId": 4
+        }
+    },
+    {
+        "id": 5,
+        "name": "Company E",
+        "description": "Finance Solutions",
+        "tags": [
+            "Finance",
+            "Tech",
+            "Solutions"
+        ],
+        "companySize": "Large",
+        "CEO": {
+            "name": "Robert Wilson",
+            "personId": 5
+        }
+    },
+    {
+        "id": 6,
+        "name": "Company F",
+        "description": "Automotive Manufacturer",
+        "tags": [
+            "Automotive",
+            "Manufacturing",
+            "Cars"
+        ],
+        "companySize": "Large",
+        "CEO": {
+            "name": "Elizabeth Adams",
+            "personId": 6
+        }
+    },
+    {
+        "id": 7,
+        "name": "Company G",
+        "description": "Education Technology",
+        "tags": [
+            "Education",
+            "Tech",
+            "Learning"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "William Brown",
+            "personId": 7
+        }
+    },
+    {
+        "id": 8,
+        "name": "Company H",
+        "description": "Telecommunications",
+        "tags": [
+            "Telecom",
+            "Tech",
+            "Communication"
+        ],
+        "companySize": "Large",
+        "CEO": {
+            "name": "Sarah Clark",
+            "personId": 8
+        }
+    },
+    {
+        "id": 9,
+        "name": "Company I",
+        "description": "Energy Solutions",
+        "tags": [
+            "Energy",
+            "Tech",
+            "Sustainability"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "Daniel Hall",
+            "personId": 9
+        }
+    },
+    {
+        "id": 10,
+        "name": "Company J",
+        "description": "Aerospace Manufacturer",
+        "tags": [
+            "Aerospace",
+            "Manufacturing",
+            "Aviation"
+        ],
+        "companySize": "Large",
+        "CEO": {
+            "name": "Karen Lewis",
+            "personId": 10
+        }
+    },
+    {
+        "id": 11,
+        "name": "Company K",
+        "description": "Digital Marketing Agency",
+        "tags": [
+            "Digital Marketing",
+            "Advertising",
+            "Online Promotion"
+        ],
+        "companySize": "Small",
+        "CEO": {
+            "name": "Richard Turner",
+            "personId": 11
+        }
+    },
+    {
+        "id": 12,
+        "name": "Company L",
+        "description": "Entertainment Production",
+        "tags": [
+            "Entertainment",
+            "Media",
+            "Production"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "Rebecca White",
+            "personId": 12
+        }
+    },
+    {
+        "id": 13,
+        "name": "Company M",
+        "description": "Food Delivery Service",
+        "tags": [
+            "Food",
+            "Delivery",
+            "Cuisine"
+        ],
+        "companySize": "Large",
+        "CEO": {
+            "name": "Steven Parker",
+            "personId": 13
+        }
+    },
+    {
+        "id": 14,
+        "name": "Company N",
+        "description": "Travel Booking Platform",
+        "tags": [
+            "Travel",
+            "Booking",
+            "Tourism"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "Jennifer Adams",
+            "personId": 14
+        }
+    },
+    {
+        "id": 15,
+        "name": "Company O",
+        "description": "Fashion Retailer",
+        "tags": [
+            "Fashion",
+            "Retail",
+            "Apparel"
+        ],
+        "companySize": "Large",
+        "CEO": {
+            "name": "Christopher Hall",
+            "personId": 15
+        }
+    },
+    {
+        "id": 16,
+        "name": "Company P",
+        "description": "Biotechnology Research",
+        "tags": [
+            "Biotechnology",
+            "Research",
+            "Science"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "Margaret Turner",
+            "personId": 16
+        }
+    },
+    {
+        "id": 17,
+        "name": "Company Q",
+        "description": "Real Estate Development",
+        "tags": [
+            "Real Estate",
+            "Development",
+            "Property"
+        ],
+        "companySize": "Large",
+        "CEO": {
+            "name": "Paul Lewis",
+            "personId": 17
+        }
+    },
+    {
+        "id": 18,
+        "name": "Company R",
+        "description": "Environmental Solutions",
+        "tags": [
+            "Environmental",
+            "Tech",
+            "Sustainability"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "Laura Davis",
+            "personId": 18
+        }
+    },
+    {
+        "id": 19,
+        "name": "Company S",
+        "description": "Transportation Services",
+        "tags": [
+            "Transportation",
+            "Logistics",
+            "Delivery"
+        ],
+        "companySize": "Large",
+        "CEO": {
+            "name": "Brian Clark",
+            "personId": 19
+        }
+    },
+    {
+        "id": 20,
+        "name": "Company T",
+        "description": "Health and Fitness",
+        "tags": [
+            "Health",
+            "Fitness",
+            "Wellness"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "Amanda Smith",
+            "personId": 20
+        }
+    },
+    {
+        "id": 21,
+        "name": "Company U",
+        "description": "Music Streaming Platform",
+        "tags": [
+            "Music",
+            "Streaming",
+            "Entertainment"
+        ],
+        "companySize": "Large",
+        "CEO": {
+            "name": "David Turner",
+            "personId": 21
+        }
+    },
+    {
+        "id": 22,
+        "name": "Company V",
+        "description": "Software Consulting",
+        "tags": [
+            "Software",
+            "Consulting",
+            "Technology"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "Rachel Adams",
+            "personId": 22
+        }
+    },
+    {
+        "id": 23,
+        "name": "Company W",
+        "description": "Travel Tech Solutions",
+        "tags": [
+            "Travel",
+            "Tech",
+            "Tourism"
+        ],
+        "companySize": "Large",
+        "CEO": {
+            "name": "Kevin Hall",
+            "personId": 23
+        }
+    },
+    {
+        "id": 24,
+        "name": "Company X",
+        "description": "Artificial Intelligence",
+        "tags": [
+            "AI",
+            "Tech",
+            "Innovation"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "Olivia Davis",
+            "personId": 24
+        }
+    },
+    {
+        "id": 25,
+        "name": "Company Y",
+        "description": "Digital Advertising Agency",
+        "tags": [
+            "Digital Advertising",
+            "Marketing",
+            "Online Promotion"
+        ],
+        "companySize": "Small",
+        "CEO": {
+            "name": "Matthew Turner",
+            "personId": 25
+        }
+    },
+    {
+        "id": 26,
+        "name": "Company Z",
+        "description": "Blockchain Technology",
+        "tags": [
+            "Blockchain",
+            "Tech",
+            "Cryptocurrency"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "Sophia Adams",
+            "personId": 26
+        }
+    },
+    {
+        "id": 27,
+        "name": "Company AA",
+        "description": "E-learning Platform",
+        "tags": [
+            "E-learning",
+            "Education",
+            "Online Learning"
+        ],
+        "companySize": "Large",
+        "CEO": {
+            "name": "William Turner",
+            "personId": 27
+        }
+    },
+    {
+        "id": 28,
+        "name": "Company BB",
+        "description": "Robotics Manufacturer",
+        "tags": [
+            "Robotics",
+            "Manufacturing",
+            "Automation"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "Charlotte Davis",
+            "personId": 28
+        }
+    },
+    {
+        "id": 29,
+        "name": "Company CC",
+        "description": "Green Energy Solutions",
+        "tags": [
+            "Green Energy",
+            "Tech",
+            "Sustainability"
+        ],
+        "companySize": "Large",
+        "CEO": {
+            "name": "Ethan Turner",
+            "personId": 29
+        }
+    },
+    {
+        "id": 30,
+        "name": "Company DD",
+        "description": "Agriculture Technology",
+        "tags": [
+            "Agriculture",
+            "Tech",
+            "Farming"
+        ],
+        "companySize": "Medium",
+        "CEO": {
+            "name": "Hannah Adams",
+            "personId": 30
+        }
+    }
+]
