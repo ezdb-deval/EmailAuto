@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+
+# TypeScript compiled JavaScript files
+dist/
+build/
+
+# Environment configuration files
+.env
+.env.local
+.env.*.local
+
+# Debug log from npm
+npm-debug.log*
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Log files
+*.log
+*.log.*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
